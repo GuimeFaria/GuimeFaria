@@ -15,8 +15,8 @@
 - **Tools:** Visual Studio Code, Git, GitHub  
 
 ## 🌟 Stats & Highlights
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeMachado&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMachado&layout=compact&theme=radical)
+![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuimeFaria&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuimeFaria&layout=compact&theme=radical)
 
 ## 📫 Let's Connect!
 - LinkedIn: [https://www.linkedin.com/in/guilherme-faria-67931020a/]
